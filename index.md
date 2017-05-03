@@ -1,10 +1,5 @@
 ---
 layout: home
 ---
-# About Theme
-
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
-
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
-
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+# 刘楠的博客
+ 爱前端 爱开发 爱游戏 爱阅读 文笔良好的的工科男 历史爱好者 理想有一天能够写一部伟大的小说。这是我的[github](https://github.com/Ln-wukong/ln-blog)
